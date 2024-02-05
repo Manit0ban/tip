@@ -143,6 +143,7 @@ function clear () {
     document.getElementById("span2").innerHTML = value;
     document.getElementById("span3").innerHTML = value;
     document.getElementById("a").value = value;
+    document.getElementById("b").value = value;
     
     reset();
 
